@@ -10,4 +10,3 @@ console.log('Last item: ' + numbers[(numbers.length-1)]);  // numbers[9]
 var car = {};
 
 car.colour = "blank";
-
